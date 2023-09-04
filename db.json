@@ -1,0 +1,24 @@
+{
+"products"; [
+{"id":1,"name":"Kafue flats lechwe","category":"Pink"},
+{"id":2,"name":"Hartebeest, red","category":"Orange"},
+{"id":3,"name":"Kingfisher, white-throated","category":"Green"},
+{"id":4,"name":"Blue and gold macaw","category":"Yellow"},
+{"id":5,"name":"Kirk's dik dik","category":"Crimson"},
+{"id":6,"name":"Roseate cockatoo","category":"Violet"},
+{"id":7,"name":"Egyptian vulture","category":"Fuscia"},
+{"id":8,"name":"Bison, american","category":"Goldenrod"},
+{"id":9,"name":"Four-striped grass mouse","category":"Indigo"},
+{"id":10,"name":"Civet, small-toothed palm","category":"Goldenrod"},
+{"id":11,"name":"Small-toothed palm civet","category":"Violet"},
+{"id":12,"name":"Racer, blue","category":"Purple"},
+{"id":13,"name":"Argalis","category":"Aquamarine"},
+{"id":14,"name":"Glider, sugar","category":"Yellow"},
+{"id":15,"name":"Mississippi alligator","category":"Puce"},
+{"id":16,"name":"Bonnet macaque","category":"Orange"},
+{"id":17,"name":"Four-spotted skimmer","category":"Yellow"},
+{"id":18,"name":"Badger, american","category":"Red"},
+{"id":19,"name":"Sandgrouse, yellow-throated","category":"Red"},
+{"id":20,"name":"Mouflon","category":"Pink"}
+]
+}
